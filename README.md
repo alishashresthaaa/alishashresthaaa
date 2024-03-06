@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/alishashresthaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alishashresthaaa" height="30" width="40" /></a>
 <a href="https://kaggle.com/karmansinghbains" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karmansinghbains" height="30" width="40" /></a>
-<a href="https://instagram.com/alishashresthaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alishashresthaaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bains12karman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bains12karman" height="30" width="40" /></a>
 </p>
 

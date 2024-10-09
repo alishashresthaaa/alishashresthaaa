@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisha Shrestha</h1>
-<p align="center">I am a software developer with over three years of experience in the digital payment sector, healthcare sector, and e-commerce applications. After working on frontend development majorly using ReactJS, I have decided to expand my skills to data analysis, machine learning and much more. I want to learn alogrithms and techniques on data visualisation as that's what the market is looking for these days :)</p>
+<p align="center">I am a software developer with over three years of experience in the digital payment sector, healthcare sector, and e-commerce applications. After working on frontend development majorly using ReactJS, I have decided to expand my skills to backend development and databases :)</p>
 
 - 🌱 I’m currently learning **Python and Backend Development**
 

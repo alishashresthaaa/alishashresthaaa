@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alisha Shrestha</h1>
-<p align="center">I am a software developer with over three years of experience in the digital payment sector, healthcare sector, and e-commerce applications. After working on frontend development majorly using ReactJS, I have decided to expand my skills to backend development and databases :)</p>
-
-- 🌱 I’m currently learning **Python and Backend Development**
+<p align="center">Skilled Frontend Developer with three years of experience building scalable web applications using
+React.js and Next.js. Expertise in creating reusable UI components, developing feature-rich solutions,
+and optimizing performance. Proficient in JavaScript (ES6+), TypeScript, and REST API integration,
+with a strong focus on delivering exceptional user experiences. :)</p>
 
 - 💬 Ask me about **Frontend Development and Design Architecture.**
 
-- 📫 How to reach me **mail.alisha.shrestha@gmail.com**
+- 📫 How to reach me **alishashresthaaa0@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/uc?export=download&id=1wyJtxvlvBaCz_MPPDpuxbTITm616uvJ7)
+- 📄 Know about my experiences [my resume](https://drive.google.com/uc?export=download&id=1BespeWH0imUA1AoqRbiV2jKWgi156csZ)
 
 <h2>🌐 My Socials</h2> 
 
@@ -20,7 +21,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=plastic&logo=less&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)

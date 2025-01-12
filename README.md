@@ -8,7 +8,7 @@ with a strong focus on delivering exceptional user experiences. :)</p>
 
 - 📫 How to reach me **alishashresthaaa0@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/uc?export=download&id=1RDWdTItT-4qxbQSg9UXroWD9l_Jl7xHb/view)
+- 📄 Know about my experiences [my resume](https://drive.google.com/uc?export=download&id=1RDWdTItT-4qxbQSg9UXroWD9l_Jl7xHb)
 
 <h2>🌐 My Socials</h2> 
 
